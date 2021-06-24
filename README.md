@@ -1,6 +1,6 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=its532&show_icons=true&count_private=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=its532&layout=compact)
+<!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=its532&layout=compact) -->
 <!--
 **its532/its532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
